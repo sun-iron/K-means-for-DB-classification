@@ -1,4 +1,4 @@
-# Automated Classification and Analysis System Using K-Means Clustering using database tables
+# Automated Database classification and Analysis System Using K-Means Clustering
 This article is for reaearch paper by sunpark (sunpark@soongsil.ac.kr) titled "A Design and Implementation of Automated Classification and Analysis System Using K-Means Clustering for Transition of Database to Micro-Services-Architecture"
 
 The paper is http://dx.doi.org/10.7840/kics.2024.49.9.1306
