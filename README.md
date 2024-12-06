@@ -6,3 +6,4 @@ The paper is http://dx.doi.org/10.7840/kics.2024.49.9.1306
 ## 1. What is ...
 This study investigates the application of K-Means clustering for automating the classification of medium to large-scale databases based on various attributes.
 
+[Now Editing]
