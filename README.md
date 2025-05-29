@@ -19,6 +19,8 @@ I used the center of gravity of a triangle to change time series data into coord
 The center of gravity of a triangle is the intersection of line segments that have a distance to three vertices, and has a center value that matches the characteristics of the time series graph.
 This center of gravity was used to create one element with the x-axis as time and the y-axis as frequency.
 
+![image](https://github.com/user-attachments/assets/0d841066-da46-485c-a657-0753cdff9a7c)
+
 ## 4. Generating log-scale data from real data
 There are three types of target DB tables.
 These are service DB, statistics DB, and management DB.
